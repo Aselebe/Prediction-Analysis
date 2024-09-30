@@ -12,12 +12,13 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.metrics import mean_squared_error
 from sklearn.ensemble import RandomForestRegressor
+from datetime import datetime
 
 
 # In[2]:
 
 
-from datetime import datetime
+
 
 
 # In[3]:
